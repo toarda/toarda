@@ -1,4 +1,3 @@
-![MasterHead](https://wallpapercave.com/wp/wp8584424.gif)
 <h1 align="center">Hi 👋, I'm Archil</h1>
 <h3 align="center">A backend developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/eb/ec/d4/ebecd4010e549f33371d741d46b9b607.gif">
